@@ -1,5 +1,7 @@
 # RPS
-This program generates a Rock Paper Scissors style game for any number of options ("Players"). It makes sense when you see it run, so here's an example output:
+This program generates a Rock Paper Scissors style game for any number of options ("Players"). The program `rps101.py` is included to demonstrate how the `playGame()` method in the `RPS` class works. 
+
+It makes sense when you see it run, so here's an example output:
 ```
 How many players? 8
 Enter a player name: Rock
